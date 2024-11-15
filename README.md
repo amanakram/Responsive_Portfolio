@@ -1,7 +1,7 @@
 # Responsive_Portfolio
 This is a responsive portfolio website designed to showcase my projects and skills. Built using HTML5, CSS3, and Bootstrap 5, the portfolio is optimized for a variety of devices, ensuring a seamless user experience across desktops, tablets, and mobile phones.
 <br>
-##Features
+# Features
 <br>
 Responsive Design: Adjusts seamlessly to different screen sizes.
 <br>
